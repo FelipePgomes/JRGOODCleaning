@@ -565,11 +565,11 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #01401c 0%, #038c4c 100%);
+  background: linear-gradient(45deg, #ffffff 0%, #03989e 100%);
   position: relative;
 }
 .about .content .read-more:hover {
-  background: linear-gradient(180deg, #01401c 0%, #038c4c 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #03989e 100%);
 }
 .about .content .read-more i {
   font-size: 22px;
@@ -1065,7 +1065,7 @@ section {
 }
 .pricing .featured h3 {
   color: #fff;
-  background: #038c4c;
+  background: #03989e;
 }
 .pricing .advanced {
   width: 200px;
@@ -1076,7 +1076,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #038c4c;
+  background: #03989e;
   color: #fff;
 }
 
