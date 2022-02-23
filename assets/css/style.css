@@ -565,7 +565,7 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #ffffff 0%, #03989e 100%);
+  background: linear-gradient(45deg, #03989e 0%, #ffffff 100%);
   position: relative;
 }
 .about .content .read-more:hover {
@@ -584,8 +584,8 @@ section {
 .counts {
   background: linear-gradient(
       90deg,
-      rgba(255, 255, 255, 1) 0%,
-      rgba(3, 152, 158, 1) 100%
+      rgba(3, 152, 158, 1) 0%,
+      rgba(0, 194, 203, 1) 100%
     ),
     /*NEED TO BE DONE*/ url("../img/counts-bg.png") center center no-repeat;
   padding: 80px 0 60px 0;
